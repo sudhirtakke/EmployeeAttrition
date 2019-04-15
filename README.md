@@ -22,9 +22,9 @@ Every year a lot of companies hire a number of employees. The companies __invest
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-| hr_data.head | ![image.png](images/head.png) |
-| dummies | ![image.png](images/dummies.png) |
-| final | ![image.png](images/final.png) |
+| hr_data.head | ![image.png](head.png) |
+| dummies | ![image.png](dummies.png) |
+| final | ![image.png](final.png) |
 
 ### FEATURE IMPORTANCE
 ![image.png](images/feature.png)
